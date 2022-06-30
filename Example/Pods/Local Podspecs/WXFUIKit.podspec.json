@@ -1,0 +1,22 @@
+{
+  "name": "WXFUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of WXFUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/武晓方/WXFUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "武晓方": "wxf24132006@163.com"
+  },
+  "source": {
+    "git": "https://github.com/武晓方/WXFUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WXFUIKit/Classes/**/*"
+}
