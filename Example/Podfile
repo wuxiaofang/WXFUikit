@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WXFUIKit_Tests' do
+  pod 'WXFUIKit', :path => '../'
+  
+  
+end
